@@ -2,12 +2,13 @@
 
 ## Objective
 Test a Frontend Developer's ability to:
-[] Setup a dev environment
-[] Call a remote API
-[] Create dynamic components based on the API's data
-[] Recreate the UI from a mockup
-[] General JavaScript abilities & problem solving
-[] Responsive web design
+
+- [ ] Setup a dev environment
+- [ ] Call a remote API
+- [ ] Create dynamic components based on the API's data
+- [ ] Recreate the UI from a mockup
+- [ ] General JavaScript abilities & problem solving
+- [ ] Responsive web design
 
 ## Requirements
 
