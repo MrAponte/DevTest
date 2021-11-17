@@ -13,7 +13,7 @@ Test a Frontend Developer's ability to:
 ## Requirements
 
 **Goal:**
-Replicate the UI in the example image
+Replicate the UI in the example image below: ![example image](https://github.com/MrAponte/DevTest/blob/1df24af206964db8b1da38751e0c40c6a022d386/fe-dev-assessment-example.png)
 
 **Must Haves:**
 1. Use the picsum.photos endpoint to grab the data for the UI
