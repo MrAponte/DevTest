@@ -1,4 +1,4 @@
-# FE Developer Assessment
+# Frontend Developer Assessment
 
 ## Objective
 Test a Frontend Developer's ability to:
@@ -6,9 +6,9 @@ Test a Frontend Developer's ability to:
 - [ ] Setup a dev environment
 - [ ] Call a remote API
 - [ ] Create dynamic components based on the API's data
+- [ ] Prove general JavaScript/Typescript abilities & problem solving
 - [ ] Recreate the UI from a mockup
-- [ ] General JavaScript abilities & problem solving
-- [ ] Responsive web design
+- [ ] (Bonus) Responsive web design
 
 ## Requirements
 
@@ -21,10 +21,12 @@ Replicate the UI in the example image below: ![example image](https://github.com
 2. Drag and drop functionality
     a. Each image block should be able to drag and drop
     b. The images should swap place once dropped
-3. Make responsive (mobile friendly)
+3. Must use Typescript for type safety
+
+**Bonus:**
+Bonus: Make responsive (mobile friendly)
 
 **Rules:**
-1. No plugins for JS (plain ES6 is preferred)
-2. No libraries for CSS (i.e. no bootstrap or tailwind)
-3. SCSS is okay
-4. 24 hours to completion (Or best effort)
+1. No plugins for JS/TS functionality (plain ES6 is preferred)
+2. Raw CSS/SCSS is preferred, Tailwind is acceptable though
+3. Completion time : TBD
